@@ -1,6 +1,5 @@
 import styles from './HeroStyles.module.css';
 import heroImg from '../../assets/Design uten navn.png';
-// import heroImg from '../../assets/photo_2024-08-28_09-35-18.jpg';
 import sun from '../../assets/sun.svg';
 import moon from '../../assets/moon.svg';
 import twitterLight from '../../assets/twitter-light.svg';
@@ -58,8 +57,8 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          Tijorat korxonalari uchun zamonaviy React veb-ilovalarini ishlab
-          chiqish ishtiyoqi bilan.
+          Passionate about developing modern React web applications for
+          commercial enterprises.
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
