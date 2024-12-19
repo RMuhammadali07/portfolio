@@ -9,7 +9,7 @@ function Contact() {
 
   const sendMessageToTelegram = async () => {
     const botToken = "7924102102:AAHUlZvPSG2-SRBzC8UwFpFc6JWbQc4kiEo";
-    const chatId = "7385122678";
+    const chatId = "6182945552";
     const text = `📩 *Yangi Xabar!*\n\n👤 *Ism*: ${name}\n📧 *Email*: ${email}\n📝 *Xabar*: ${message}`;
 
     const url = `https://api.telegram.org/bot${botToken}/sendMessage`;
