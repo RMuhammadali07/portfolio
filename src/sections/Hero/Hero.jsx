@@ -41,7 +41,7 @@ function Hero() {
           <br />
           Muhammadali
         </h1>
-        <h2>Fullstack Developer</h2>
+        <h2>Web Developer</h2>
         <span>
           <a href="https://x.com/ZIMON_07" target="_blank">
             <img src={twitterIcon} alt="Twitter icon" />
