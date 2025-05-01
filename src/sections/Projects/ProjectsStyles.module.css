@@ -5,6 +5,7 @@
 
   img {
     max-width: 250px;
+    width: 230px;
     align-self: center;
     background-color: var(--project-card-bg);
     border-radius: 20px;
@@ -29,7 +30,7 @@
   gap: 30px;
 }
 
-@media (width >= 800px) {
+@media (width >=800px) {
   .projectsContainer {
     flex-direction: row;
     flex-wrap: wrap;

@@ -57,8 +57,8 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          Passionate about developing modern React web applications for
-          commercial enterprises.
+          React asosida veb-ilovalar yaratishga qiziqaman. Hozirda ALGORITM
+          o‘quv markazida amaliyot o‘tamoqdaman va amaliy tajriba orttiryapman.
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>
