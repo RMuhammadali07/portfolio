@@ -8,7 +8,7 @@
   min-height: 500px;
 
   .hero {
-    max-width: 200px;
+    max-width: 400px;
   }
 
   span {
@@ -87,7 +87,7 @@
 
     .hero {
       max-width: 350px;
-      width: 350px;
+      width: 400px;
     }
   }
 }
