@@ -57,8 +57,7 @@ function Hero() {
           </a>
         </span>
         <p className={styles.description}>
-          React asosida veb-ilovalar yaratishga qiziqaman. Hozirda ALGORITM
-          o‘quv markazida amaliyot o‘tamoqdaman va amaliy tajriba orttiryapman.
+          React asosida veb-saytlarni yaratishga qiziqaman. Hozirda University of Business and Science(UBS) univeritetining 2-bosqich talabasiman.
         </p>
         <a href={CV} download>
           <button className="hover">Resume</button>

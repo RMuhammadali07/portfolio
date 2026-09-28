@@ -13,21 +13,28 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard
           src={viberr}
-          link="https://vidtube-css.netlify.app/"
+          link="https://rivojiddinov-vidtube.netlify.app/"
           h3="Vidtube"
           // p="Streaming App"
         />
-        <ProjectCard
+        {/* <ProjectCard
           src={freshBurger}
           link="https://food-deliveryyy.netlify.app"
           h3="Tomato"
           // p="Hamburger Restaurant"
-        />
+        /> */}
         <ProjectCard
           // src={hipsster}
           src={hotel}
-          link="https://hotel-website-css.netlify.app"
+          link="https://rivojiddinov-hotel.netlify.app"
           h3="Hotel"
+          // p="Glasses Shop"
+        />
+        <ProjectCard
+          // src={hipsster}
+          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Ota_PXOWC-PXptGfRyPLhph2FLhkt304bse3GpUtDg&s=10"
+          link="https://rivojiddinov-cake.netlify.app"
+          h3="Cake Shop"
           // p="Glasses Shop"
         />
         {/* <ProjectCard
